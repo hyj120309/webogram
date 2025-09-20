@@ -21,7 +21,7 @@ Config.App = {
   id: 29251291,
   hash: 'e7158e3fcffa32bca10c59b8a25c7323 ',
   version: '0.7.0',
-  domains: ['tg.aliyun.com.hyj120309.top']
+  domains: ['tg.aliyun.com.hyj120309.top' ,'hyj120309.github.io']
 }
 
 Config.Modes = {
